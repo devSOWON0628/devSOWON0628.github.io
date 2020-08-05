@@ -8,7 +8,8 @@ System.out.println("Hello world");
 
 <!--![사진](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)-->
 <!--![내_포스터](74503145_559045004831553_1015598163064520704_n.jpg)-->
-<img src="https://github.com/devSOWON0628/devSOWON0628.github.io/blob/master/74503145_559045004831553_1015598163064520704_n.jpg" width="50%" >
+<img src="https://github.com/devSOWON0628/devSOWON0628.github.io/blob/master/74503145_559045004831553_1015598163064520704_n.jpg" width="50%">
+
 <!--You can use the [editor on GitHub](https://github.com/devSOWON0628/devSOWON0628.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 -->
