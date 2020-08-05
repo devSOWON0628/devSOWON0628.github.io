@@ -5,8 +5,9 @@
   :heart: Name: Park Sowon \
   :birthday: Birth_day : 2002/06/28 \
   :school: School : Mirim Girls' Information Science Highschool \
-  :post_office:  Office : 
-  :gem: Github : https://github.com/devSOWON0628
+  :post_office:  Office : \
+  :gem: Github : https://github.com/devSOWON0628 \
+  :crown: Award : 
 
 
 
