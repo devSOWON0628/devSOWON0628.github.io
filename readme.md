@@ -10,10 +10,10 @@ System.out.println("Hello world");
 <!--![내_포스터](74503145_559045004831553_1015598163064520704_n.jpg)-->
 
 ## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
-  :heart: Name: Park Sowon
-  :birthday: Birth_day : 2002/06/28
-  :school: School : Mirim Girls' Information Science Highschool
-  :post_office: : Office : 
+  :heart: Name: Park Sowon \
+  :birthday: Birth_day : 2002/06/28 \
+  :school: School : Mirim Girls' Information Science Highschool \
+  :post_office:  Office : 
 
 
 
