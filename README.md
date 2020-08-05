@@ -1,4 +1,4 @@
-## Welcome to SOWON's GitHub Pages
+
 ```java
 System.out.println("Hello world");
 ```
