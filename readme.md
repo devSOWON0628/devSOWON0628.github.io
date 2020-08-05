@@ -1,39 +1,32 @@
-emsp; 
-## SOWON's Profile
+  ## SOWON's Profile
 
 ```java
 System.out.println("Hello world");
 ```
 
-emsp; [내_홈페이지로_가기](https://github.com/devSOWON0628)
+  [내_홈페이지로_가기](https://github.com/devSOWON0628)
 
 <!--![사진](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)-->
 <!--![내_포스터](74503145_559045004831553_1015598163064520704_n.jpg)-->
 
 ## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
-emsp; Name: Park Sowon
-
-emsp; Birth_day : 2002/06/28
-
-emsp; School : Mirim Girls' Information Science Highschool
-
+  :heart: Name: Park Sowon
+  :birthday: Birth_day : 2002/06/28
+  :school: School : Mirim Girls' Information Science Highschool
+  :post_office: : Office : 
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Project
+"프로젝트"
 
-1. Numbered
-2. List
+### School activities
+"교내활동"
 
-**Bold** and _Italic_ and `Code` text
+### External activity
+"외부활동"
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
