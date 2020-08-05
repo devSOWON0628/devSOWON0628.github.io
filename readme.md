@@ -1,7 +1,7 @@
   ## SOWON's Profile
 
 
-  ## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
+  ## <img src="KakaoTalk_20200805_101842005.jpg" width="30%">
   
   :heart: Name: Park Sowon \
   :birthday: Birth_day : 2002/06/28 \
