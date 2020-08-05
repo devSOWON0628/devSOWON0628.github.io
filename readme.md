@@ -1,25 +1,24 @@
-  ## SOWON's Profile
+## SOWON's Profile
 
-
-  ## <img src="KakaoTalk_20200805_101842005.jpg" width="30%">
+## <img src="KakaoTalk_20200805_101842005.jpg" width="30%">
   
-  :heart: Name: Park Sowon \
-  :birthday: Birth_day : 2002/06/28 \
-  :school: School : Mirim Girls' Information Science Highschool \
-  :post_office:  Office : \
-  :gem: Github : https://github.com/devSOWON0628 \
-  :crown: Award : 
+:heart: Name: Park Sowon \
+:birthday: Birth_day : 2002/06/28 \
+:school: School : Mirim Girls' Information Science Highschool \
+:post_office:  Office : \
+:gem: Github : https://github.com/devSOWON0628 \
+:crown: Award : 
 
 
 
-  ### Project
-  "프로젝트"
+### Project
+"프로젝트"
 
-  ### School activities
-  "교내활동"
+### School activities
+"교내활동"
 
-  ### External activity
-  "외부활동"
+### External activity
+"외부활동"
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
