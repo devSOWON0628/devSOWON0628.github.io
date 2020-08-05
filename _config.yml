@@ -1,5 +1,5 @@
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:  "https://devSOWON0628.github.io"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -27,3 +27,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+remote_theme : themefisher/kross-jekyll-portfolio-template
