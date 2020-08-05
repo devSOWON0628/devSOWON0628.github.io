@@ -11,14 +11,14 @@
 
 
 
-### Project
-"프로젝트"
+  ### Project
+  "프로젝트"
 
-### School activities
-"교내활동"
+  ### School activities
+  "교내활동"
 
-### External activity
-"외부활동"
+  ### External activity
+  "외부활동"
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
