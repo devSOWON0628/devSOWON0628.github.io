@@ -31,3 +31,5 @@ exclude:
 remote_theme : themefisher/kross-jekyll-portfolio-template
 
 title                    : "SOWON's Profile"
+name                     : "devSOWON0628"
+description              : "sowon's github.io profile"
