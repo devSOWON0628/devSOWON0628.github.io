@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SOWON's GitHub Pages
 ```java
 System.out.println("Hello world");
 ```
@@ -8,11 +8,12 @@ System.out.println("Hello world");
 ![사진](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 <!--![내_포스터](74503145_559045004831553_1015598163064520704_n.jpg)-->
 
-You can use the [editor on GitHub](https://github.com/devSOWON0628/devSOWON0628.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/devSOWON0628/devSOWON0628.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-->
 
-### Markdown
+### Profile
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
