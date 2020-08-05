@@ -29,3 +29,5 @@ exclude:
   - vendor
 
 remote_theme : themefisher/kross-jekyll-portfolio-template
+
+title                    : ""
