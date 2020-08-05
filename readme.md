@@ -2,6 +2,7 @@
 
 
   ## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
+  
   :heart: Name: Park Sowon \
   :birthday: Birth_day : 2002/06/28 \
   :school: School : Mirim Girls' Information Science Highschool \
