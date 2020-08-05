@@ -1,20 +1,12 @@
   ## SOWON's Profile
 
-```java
-System.out.println("Hello world");
-```
 
-  [내_홈페이지로_가기](https://github.com/devSOWON0628)
-
-<!--![사진](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)-->
-<!--![내_포스터](74503145_559045004831553_1015598163064520704_n.jpg)-->
-
-## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
+  ## <img src="74503145_559045004831553_1015598163064520704_n.jpg" width="30%">
   :heart: Name: Park Sowon \
   :birthday: Birth_day : 2002/06/28 \
   :school: School : Mirim Girls' Information Science Highschool \
   :post_office:  Office : 
-
+  :gem: Github : https://github.com/devSOWON0628
 
 
 
